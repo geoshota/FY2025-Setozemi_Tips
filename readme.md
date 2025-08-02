@@ -62,3 +62,9 @@
     <img src="fig/tossetolabicon.png" alt="Tosseto Lab Icon" width="100"/>
   </a>
 </p>
+
+<p align="left"> 
+  <a href="https://github.com/geoshota/FY2025-Setozemi_Tips">
+    <img src="https://komarev.com/ghpvc/?username=geoshota&repo=FY2025-Setozemi_Tips" alt="FY2025-Setozemi_Tips" />
+  </a>
+</p>
